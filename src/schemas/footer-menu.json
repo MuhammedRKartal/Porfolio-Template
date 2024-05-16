@@ -1,0 +1,37 @@
+[
+  {
+    "main_title": "About Us",
+    "item": [
+      {
+        "title": "About Us",
+        "link": "/about-us",
+        "is_link": true
+      }
+    ]
+  },
+
+  {
+    "main_title": "Forums",
+    "item": [
+      {
+        "title": "Ownedcore",
+        "link": "https://www.ownedcore.com/forums/showthread.php?t=1011705&p=4463111",
+        "is_link": true,
+        "rel": "noreferrer",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "main_title": "Contact Us",
+    "item": [
+      {
+        "title": "Discord",
+        "link": "https://discord.com/invite/wowtasker",
+        "is_link": true,
+        "rel": "noreferrer",
+        "target": "_blank"
+      }
+    ]
+  }
+]
